@@ -6,9 +6,11 @@
 
 * [主镜使用指南](docs/major_telescope.md)
 
-* [关于小望远镜](docs/minor_telescope.md)
-
 * [活动申请流程](docs/application.md)
+
+* [镜头使用指南](docs/lens.md)
+
+* [关于小望远镜](docs/minor_telescope.md)
 
 * [天文社破不掉的诅咒](docs/curse.md)
 
