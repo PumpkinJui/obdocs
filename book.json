@@ -5,6 +5,14 @@
         "-search",
         "-sharing",
         "back-to-top-button",
+        "code",
+        "expandable-chapters",
+        "github",
         "search-pro"
-    ]
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/PumpkinJui/obdocs"
+        }
+    }
 }
