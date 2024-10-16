@@ -16,6 +16,7 @@
 
 * 高级使用指南
   * [镜头使用指南](docs/lens.md)
+  * [手动寻星指南](docs/manual.md)
   * [望远镜校准方法](docs/adjust.md)
 
 * [关于天文台文档](about/about.md)
