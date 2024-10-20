@@ -9,7 +9,7 @@
 有一套非常有用的数据：
 
 - 呼和浩特市近似经纬度：**40.8 N, 111.7 E**
-- 天文台望远镜系统设定经纬度：**40°48*'*26*"* N, 111°41*'*09*"* E** (40.8072 N, 111.6858 E)
+- 天文台望远镜系统设定经纬度：**40° 48*'* 26*"* N, 111° 41*'* 09*"* E** (40.8072 N, 111.6858 E)
 
 个人建议，最起码，把前面那个背下来。非常有用。
 
@@ -97,8 +97,8 @@
 内嵌但不限于下文中的前三个气象预报源。
 
 - 官方网站：[https://laysky.com/](https://laysky.com/)
-- 已知兼容平台：Android、iOS、微信小程序
-- 安卓包名：com.twtapp ([应用市场直达](market://details?id=com.twtapp))
+- 已知兼容平台：Android, iOS, WeChat Mini Program
+- 安卓包名：`com.twtapp` ([应用市场直达](market://details?id=com.twtapp))
 - 是否收费：否，有广告
 
 ### 日出日落月相
@@ -109,7 +109,7 @@
 
 - 官方网站：[https://www.oulagongshi.com/](https://www.oulagongshi.com/)
 - 兼容平台：Android
-- 安卓包名：com.xueping.solunar ([应用市场直达](market://details?id=com.xueping.solunar))
+- 安卓包名：`com.xueping.solunar` ([应用市场直达](market://details?id=com.xueping.solunar))
 - 是否收费：部分
 
 ### 天文观星指南
@@ -120,7 +120,7 @@
 
 - 官方网站：[https://www.oulagongshi.com/](https://www.oulagongshi.com/)
 - 兼容平台：Android
-- 安卓包名：com.xueping.astroguide ([应用市场直达](market://details?id=com.xueping.astroguide))
+- 安卓包名：`com.xueping.astroguide` ([应用市场直达](market://details?id=com.xueping.astroguide))
 - 是否收费：部分
 
 ## 天气
@@ -133,25 +133,45 @@
 
 ### meteoblue
 
+- 官方网站：[https://www.meteoblue.com/](https://www.meteoblue.com/)
+- 兼容平台：Android [PLAY STORE], iOS, Web
+- 安卓包名：`com.meteoblue.droid`
+- 是否收费：部分
+
 ### ClearOutside
 
-### Windy.com
-
-### Windy.app
+- 官方网站：[https://clearoutside.com/](https://clearoutside.com/)
+- 兼容平台：Android [PLAY STORE], iOS, Web
+- 安卓包名：`com.firstlightoptics.clearoutside`
+- 是否收费：否
 
 ### 中国气象
 
 - 官方网站：[https://decision.tianqi.cn/describe/index.html](https://decision.tianqi.cn/describe/index.html)
-- 兼容平台：Android、iOS
-- 安卓包名：com.china ([应用市场直达](market://details?id=com.china))
+- 兼容平台：Android, iOS
+- 安卓包名：`com.china` ([应用市场直达](market://details?id=com.china))
 - 是否收费：否
+
+### Windy.com
+
+- 官方网站：[https://www.windy.com/](https://www.windy.com/)
+- 兼容平台：Android [PLAY STORE], iOS, Web
+- 安卓包名：`com.windyty.android`
+- 是否收费：部分
+
+### Windy.app
+
+- 官方网站：[https://windy.app/](https://windy.app/)
+- 兼容平台：Android [PLAY STORE], iOS, Web
+- 安卓包名：`co.windyapp.android`
+- 是否收费：部分
 
 ## 星图
 
 ### Stellarium
 
 - 官方网站：[https://stellarium.org/zh_CN/](https://stellarium.org/zh_CN/)
-- 兼容平台：Windows、macOS、Linux
+- 兼容平台：Windows, macOS, Linux
 - 是否收费：否
 
 ### Stellarium Mobile
@@ -161,10 +181,10 @@
 - 官方网站
   - [https://www.stellarium-labs.com/](https://www.stellarium-labs.com/)
   - [https://stellarium-web.org/](https://stellarium-web.org/)
-- 兼容平台：Android (PLAY STORE)、iOS、Web
+- 兼容平台：Android [PLAY STORE], iOS, Web
 - 安卓包名
-  - com.noctuasoftware.stellarium_free
-  - com.noctuasoftware.stellarium_plus
+  - `com.noctuasoftware.stellarium_free`
+  - `com.noctuasoftware.stellarium_plus`
 - 是否收费：部分
 
 ### Star Walk 2
@@ -172,10 +192,10 @@
 比 Stellarium 好看。
 
 - 官方网站：[https://starwalk.space/zh-Hans](https://starwalk.space/zh-Hans)
-- 兼容平台：Android (PLAY STORE)、iOS
+- 兼容平台：Android [PLAY STORE], iOS
 - 安卓包名：
-  - com.vitotechnology.StarWalk2Free
-  - com.vitotechnology.StarWalk2
+  - `com.vitotechnology.StarWalk2Free`
+  - `com.vitotechnology.StarWalk2`
 - 是否收费：部分
 
 ## 天象历
@@ -186,7 +206,7 @@
   - 微信公众号
   - [http://magua.china-vo.org/](http://magua.china-vo.org/)
   - [https://www.weibo.com/ls0255](https://www.weibo.com/ls0255)
-- 兼容平台：WeChat、Weibo、Web
+- 兼容平台：WeChat, Weibo, Web
 - 是否收费：否
 - 使用方法：按介绍操作，将天象历导入手机日历即可
 
