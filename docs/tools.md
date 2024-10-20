@@ -125,6 +125,10 @@
 
 ## 天气
 
+国内气象预报通常不包括云量……不知道为什么。  
+想看云量，中国气象、中国天气网、彩云天气什么的都用不了，只能看看卫星云图……  
+在这一点上，国外的软件做得比国内好多了。
+
 ### 晴天钟
 
 - 官方网站：[https://7timer.info/](https://7timer.info/)
@@ -143,13 +147,6 @@
 - 官方网站：[https://clearoutside.com/](https://clearoutside.com/)
 - 兼容平台：Android [PLAY STORE], iOS, Web
 - 安卓包名：`com.firstlightoptics.clearoutside`
-- 是否收费：否
-
-### 中国气象
-
-- 官方网站：[https://decision.tianqi.cn/describe/index.html](https://decision.tianqi.cn/describe/index.html)
-- 兼容平台：Android, iOS
-- 安卓包名：`com.china` ([应用市场直达](market://details?id=com.china))
 - 是否收费：否
 
 ### Windy.com
