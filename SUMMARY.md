@@ -10,6 +10,8 @@
 
 * [常用工具软件](docs/tools.md)
 
+* [天文学读物推荐](docs/books.md)
+
 * [关于小望远镜](docs/minor_telescope.md)
 
 * [天文社破不掉的诅咒](docs/curse.md)
@@ -19,7 +21,7 @@
   * [手动寻星指南](docs/manual.md)
   * [望远镜校准方法](docs/adjust.md)
 
-* [关于天文台文档](about/about.md)
+* [关于天文台文档](about/README.md)
   * [七光年天文社](about/club.md)
   * [七光年天文社 (v2)](about/club_v2.md)
   * [天文台](about/observatory.md)
