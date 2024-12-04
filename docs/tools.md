@@ -1,4 +1,4 @@
-# 常用工具软件 (未完成)
+# 常用工具软件
 
 > 原始文本：  
 > 有几个 app：小日常，天文通，天文观星指南，都可以办活动的时候用到——转自丁俊豪  
@@ -130,7 +130,7 @@
 ## 天气
 
 国内气象预报通常不包括云量……不知道为什么。  
-想看云量，中国气象、中国天气网、彩云天气什么的都用不了，只能看看卫星云图……  
+想看云量，中国天气网、彩云天气什么的都用不了，最多只能看看卫星云图……  
 在这一点上，国外的软件做得比国内好多了。
 
 ### 晴天钟
@@ -165,6 +165,8 @@
 
 ### Windy.com
 
+偏专业向，听说大学有课教怎么用这个。*但是就咱们需求而言，也没有那么难用……*
+
 - 官方网站：[https://www.windy.com/](https://www.windy.com/)
 - 兼容平台：Android [PLAY STORE], iOS, Web
 - 安卓包名：`com.windyty.android`
@@ -172,14 +174,22 @@
 
 ### Windy.app
 
+和上面的差不多，但不是一家。
+
 - 官方网站：[https://windy.app/](https://windy.app/)
 - 兼容平台：Android [PLAY STORE], iOS, Web
 - 安卓包名：`co.windyapp.android`
 - 是否收费：部分
 
+### 日常天气查询
+
+你能想到的各种方式都可以用了：手机自带天气、中国天气网、彩云天气，甚至央视一套新闻联播后面的天气预报……我就不多嘴了。
+
 ## 星图
 
 ### Stellarium
+
+开源免费的桌面端星图软件。
 
 - 官方网站：[https://stellarium.org/zh_CN/](https://stellarium.org/zh_CN/)
 - 兼容平台：Windows, macOS, Linux
@@ -187,7 +197,7 @@
 
 ### Stellarium Mobile
 
-这俩是相同的名字，但开发团队完全不同；除此以外，一个开源免费一个闭源付费。
+PS：这俩是相同的名字，但开发团队完全不同；除此以外，一个开源免费一个闭源付费。
 
 - 官方网站
   - [https://www.stellarium-labs.com/](https://www.stellarium-labs.com/)
@@ -200,7 +210,7 @@
 
 ### Star Walk 2
 
-比 Stellarium 好看。
+也是星图软件，比 Stellarium Mobile 好看。
 
 - 官方网站：[https://starwalk.space/zh-Hans](https://starwalk.space/zh-Hans)
 - 兼容平台：Android [PLAY STORE], iOS
@@ -209,20 +219,20 @@
   - `com.vitotechnology.StarWalk2`
 - 是否收费：部分
 
+### 北京天文馆活动星图
+
+实体星图，含 4.5 等及以上恒星，不含日、月、行星 (因为它们的自行相当明显，没法画)。
+
+- 官方网站：[https://weidian.com/item.html?itemID=3562387231](https://weidian.com/item.html?itemID=3562387231)，或前往北京天文馆购买
+
 ## 天象历
 
 ### 马褂爱天文
 
 - 官方网站：
-  - 微信公众号
+  - 微信公众号「马褂爱天文」
   - [http://magua.china-vo.org/](http://magua.china-vo.org/)
   - [https://www.weibo.com/ls0255](https://www.weibo.com/ls0255)
 - 兼容平台：WeChat, Weibo, Web
 - 是否收费：否
 - 使用方法：按介绍操作，将天象历导入手机日历即可
-
-### 中国天文年历
-
-实体书籍，中国科学院紫金山天文台编，科学出版社出版，每年一本，价格 300 元人民币以上。
-
-这个其实又贵又没什么用……太专业了。
