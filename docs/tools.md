@@ -33,14 +33,14 @@
 在上一条基础上：
 
 - 日出日落月相
-- Star Walk 2
+- Stellarium Mobile / Star Walk 2
 
 ### 高配
 
 在上一条基础上：
 
 - 天文观星指南
-- Stellarium / Stellarium Mobile
+- Stellarium
 
 ## 说明
 
@@ -165,7 +165,7 @@
 
 ### Windy.com
 
-偏专业向，听说大学有课教怎么用这个。*但是就咱们需求而言，也没有那么难用……*
+偏专业向。*但是就咱们需求而言，也没有那么难用……*
 
 - 官方网站：[https://www.windy.com/](https://www.windy.com/)
 - 兼容平台：Android [PLAY STORE], iOS, Web
@@ -174,7 +174,7 @@
 
 ### Windy.app
 
-和上面的差不多，但不是一家。
+和上面的不是一家，但没有找到明确的功能对比。同样偏专业向。*我个人会更喜欢用 Windy.com 一点。*
 
 - 官方网站：[https://windy.app/](https://windy.app/)
 - 兼容平台：Android [PLAY STORE], iOS, Web
@@ -191,13 +191,19 @@
 
 开源免费的桌面端星图软件。
 
-- 官方网站：[https://stellarium.org/zh_CN/](https://stellarium.org/zh_CN/)
+- 官方网站：
+  - [https://stellarium.org/zh_CN/](https://stellarium.org/zh_CN/)
+  - [https://github.com/Stellarium/stellarium](https://github.com/Stellarium/stellarium)
 - 兼容平台：Windows, macOS, Linux
 - 是否收费：否
 
 ### Stellarium Mobile
 
-PS：这俩是相同的名字，但开发团队完全不同；除此以外，一个开源免费一个闭源付费。
+天文通内置的星图类似这个，但那个必须在线使用。
+
+分 Free 和 Plus 两版，社长有安卓的 Plus 版安装包 *(虽然是盗版的)*。
+
+PS：和上面是相同的名字，但开发团队完全不同；除此以外，一个开源免费一个闭源付费。
 
 - 官方网站
   - [https://www.stellarium-labs.com/](https://www.stellarium-labs.com/)
@@ -210,7 +216,9 @@ PS：这俩是相同的名字，但开发团队完全不同；除此以外，一
 
 ### Star Walk 2
 
-也是星图软件，比 Stellarium Mobile 好看。
+也是星图软件，比 Stellarium Mobile 好看。似乎功能要少一些。
+
+分 Free (Ads+) 和 Premium 两版。
 
 - 官方网站：[https://starwalk.space/zh-Hans](https://starwalk.space/zh-Hans)
 - 兼容平台：Android [PLAY STORE], iOS
