@@ -149,6 +149,7 @@ PS：和上面是相同的名字，但开发团队完全不同；除此以外，
   - `com.noctuasoftware.stellarium_free`
   - `com.noctuasoftware.stellarium_plus`
 - 是否收费：部分
+- [Plus 版 (请勿传播)](https://www.123865.com/s/u7qrVv-UVugh)
 
 ### Star Walk 2
 
@@ -163,6 +164,7 @@ PS：和上面是相同的名字，但开发团队完全不同；除此以外，
   - `com.vitotechnology.StarWalk2Free`
   - `com.vitotechnology.StarWalk2`
 - 是否收费：部分
+- [Premium 版 (请勿传播)](https://www.123865.com/s/u7qrVv-UVugh)
 
 ### 北京天文馆活动星图
 
