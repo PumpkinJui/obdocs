@@ -5,6 +5,7 @@
 * [社团章程](docs/rules.md)
 
 * [主镜使用指南](docs/major_telescope.md)
+  * [原始文本](docs/major_telescope_ori.md)
 
 * [活动申请流程](docs/application.md)
 
