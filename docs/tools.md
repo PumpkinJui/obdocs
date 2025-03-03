@@ -182,7 +182,7 @@ PS：和上面是相同的名字，但开发团队完全不同；除此以外，
   - [https://www.weibo.com/ls0255](https://www.weibo.com/ls0255)
 - 兼容平台：WeChat, Weibo, Web
 - 是否收费：否
-- 使用方法：按介绍操作，将天象历导入手机日历即可
+- 使用方法：按介绍操作，将天象历导入手机日历即可。手机日历不支持导入 ics 文件的，可以使用[一叶日历](https://coolapk.com/apk/me.mapleaf.calendar)等第三方日历。
 
 ## 天气
 
