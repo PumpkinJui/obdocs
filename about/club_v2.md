@@ -1,4 +1,4 @@
-# 七光年天文社 (v2)
+# 七光年天文社（v2）
 
 > 这是 2024 年暑假社团资料包的一部分。[Word 版](../assets/社团简介.docx)可在本站下载，完整的社团资料包可在[蓝奏云](https://pumpkinjui.lanzn.com/iO0F9271ljmd)下载。
 

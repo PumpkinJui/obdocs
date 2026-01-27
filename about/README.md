@@ -6,4 +6,4 @@
 
 [七光年天文社社团资料包](https://pumpkinjui.lanzn.com/iO0F9271ljmd)
 
-## 文档历史 (未完成)
+## 文档历史（未完成）
