@@ -166,6 +166,20 @@ PS：和上面是相同的名字，但开发团队完全不同；除此以外，
 - 是否收费：部分
 - [Premium 版（请勿传播）](https://www.123865.com/s/u7qrVv-UVugh)
 
+### Celestia
+
+还是星图软件，但是这个不局限在地面上，可以在太空里面漫游。
+
+关联阅读：[Celestia：任你随意穿梭的宇宙数据库](https://sspai.com/post/105972)
+
+- 官方网站：
+  - [https://celestiaproject.space/](https://celestiaproject.space/)
+  - [https://celestia.mobi/](https://celestia.mobi/)
+  - [https://celestia.mobi/resources/guide?guide=FFB76B69-1ADA-8F27-AD06-B0880F7EF43C](https://celestia.mobi/resources/guide?guide=FFB76B69-1ADA-8F27-AD06-B0880F7EF43C)
+- 兼容平台：Windows, macOS, Linux, Android, iOS, Web
+- 安卓包名：`space.celestia.mobilecelestia`
+- 是否收费：否？
+
 ### 北京天文馆活动星图
 
 实体星图，含 4.5 等及以上恒星，不含日、月、行星（因为它们的自行相当明显，没法画）。
@@ -180,9 +194,9 @@ PS：和上面是相同的名字，但开发团队完全不同；除此以外，
   - 微信公众号「马褂爱天文」
   - [http://magua.china-vo.org/](http://magua.china-vo.org/)
   - [https://www.weibo.com/ls0255](https://www.weibo.com/ls0255)
-- 兼容平台：WeChat, Weibo, Web
+- 已知兼容平台：Android, iOS
 - 是否收费：否
-- 使用方法：按介绍操作，将天象历导入手机日历即可。手机日历不支持导入 ics 文件的，可以使用[一叶日历](https://coolapk.com/apk/me.mapleaf.calendar)等第三方日历。
+- 使用方法：按介绍操作，将天象历导入日历即可。手机日历不支持导入 ics 文件的，可以使用一叶日历等第三方日历。
 
 ## 天气
 
